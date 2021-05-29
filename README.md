@@ -11,7 +11,6 @@ Portfolio Generator ia an application that helps users creating their portfolio
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   * [License](#license)
 
